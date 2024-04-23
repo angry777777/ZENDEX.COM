@@ -1,1 +1,170 @@
 # ZENDEX.COM
+<!DOCTYPE html>
+<html>
+<head>
+	
+  
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ZENDEX.COM</title>
+	<h1>DIARIO DIGITAL</h1>
+	<p>En el día de hoy el profe pancho nos enseñó a utilizar la corriente alterna, nos enseño a como se conecta correctamente y los riesgos que conlleva conectar mal, en cual en esta clase nos dedicamos a hacer el trabajo correctamente llevando una nueva habilidad.
+Después del trabajo hecho el profe nos siguió explicando los beneficios de la electricidad y las desventajas pero en este dia aprendimos algo nuevo y que nos va ayudar en el futuro.
+</p>
+<img src="IMGE1.jpeg">
+
+    <h3>RECETAS DE COMIDA</h3>
+    <p> 
+
+Ingredientes para hacer Pizza casera:
+ 1 kilogramo de harina de fuerza (también conocida como harina 00)
+ 1 cucharadita de sal fina
+ 2½ tazas de agua tibia
+ 2 cucharadas soperas de aceite de oliva
+ 30 gramos
+ Rodillo de madera - Comprar ⧉
+ Papel de horno - Comprar ⧉
+ Bol
+Cómo hacer Pizza casera:
+1
+Antes de empezar con la receta de pizza casera fácil resulta fundamental hacer una pequeña aclaración sobre la harina. Para realizar este tipo de masas, la harina más recomendada es la de fuerza, puesto que al contener un mayor porcentaje de gluten el resultado será una masa de pizza casera mucho más esponjosa. En los países de América Latina, sobre todo, este tipo de harina es conocido como harina 00
+
+
+
+
+
+
+2
+Ahora sí, ¡empezamos la receta de pizza casera! Para ello, lo primero que vamos a hacer es mezclar en un recipiente el agua templada con la levadura fresca. Para elaborar una masa para pizza casera fácilmente puedes utilizar este tipo de levadura o hacer una masa de pizza con levadura seca, ambas son válidas. En el caso de que prefieras la seca, deberás mezclarla con la harina y si, por el contrario, prefieres la fresca, es fundamental mezclarla con agua tibia. La levadura fresca es aquella que se vende en bloque y se tiene que conservar en el frigorífico.
+En general, unos 30 gramos de levadura fresca equivalen a unos 10 gramos de levadura seca, tenlo en cuenta por si quieres usar una levadura diferente a la de esta receta de pizza italiana.
+3
+Cuando hayas mezclado la levadura con el agua, agrega las dos cucharadas de aceite. Mezcla bien para que se integren todos los ingredientes para la pizza.
+4
+Antes de que la preparación se enfríe, añade en un bol amplio la harina de fuerza y la sal, acomodalas en forma de volcán. Vierte la mezcla anterior en el centro.
+5
+Ahora es cuando tienes que empezar a amasar bien hasta que notes que la masa de pizza casera deja de pegarse en tus manos y puedes manejarla sin problemas.
+
+
+6
+6Cuando tengas la masa de pizza esponjosa lista, deberás darle forma de tubo largo y cortarla en 4 particiones. Después, haz una bola con cada partición y tapalas con un trapo limpio y seco. Deberás dejarlas reposar durante 45 minutos. Verás que, poco a poco, empiezan a elevarse hasta duplicar su volumen. Cada bola de masa te servirá para hacer una pizza casera normal.
+7
+Pasado el tiempo correspondiente, espolvorea un poco de harina sobre una mesa para preparar la pizza casera, coge una de las bolas y colócala sobre ella. Ahora deberás extenderla con tus manos estirando desde el centro hacia los costados, dándole forma circular. Si dispones de rodillo también puedes utilizarlo para que quede más fina la masa. Una vez estirada, ya puedes añadir la salsa para pizza casera y los ingredientes para pizza que prefieras. Puedes usar esta deliciosa receta casera de salsa de tomate y cebolla para pizza.
+En RecetasGratis dispones de varias recetas de pizza casera, por eso te aconsejamos que visites las siguientes ideas antes de meterla en el horno:
+8
+Una vez hayas escogido los ingredientes y tengas tu masa de pizza casera terminada, deberás precalentar el horno a temperatura máxima durante unos 20 minutos.
+9
+Pasado el tiempo, introduce la preparación pizza casera y hornéala durante 10 minutos aproximadamente. Deberás vigilarla porque el tiempo final variará en función del tipo de horno y la intensidad que tenga. ¡Listo, tu pizza casera al horno estará para chuparse los dedos!
+
+
+<img src="IMG4.jpeg">
+
+
+
+
+
+
+
+
+Lasaña clásica
+Ingredientes
+10-12 placas precocidas de lasaña
+600 g de carne picada de ternera
+1 cebolla
+2 zanahorias
+2 tallos de apio
+500 g de tomate troceado en conserva (o tomate entero pelado)
+500 ml de agua
+80 g de queso rallado (cheddar, Parmesano u otro)
+Sal y pimienta molida al gusto
+Aceite de oliva virgen extra
+Para la bechamel
+3 cdas. de aceite de oliva (o 60 g de mantequilla)
+4 cdas. de harina
+600 ml de leche
+Sal, pimienta y nuez moscada al gusto
+Elaboración
+Coloca un poco de aceite de oliva en una  cazuela o cocotte al fuego y añade la carne picada con sal y pimienta al gusto. Ve moviendo y separando la carne con el fuego bastante vivo.
+Mientras, corta la cebolla, las zanahorias y el apio en trocitos muy pequeños para que se junten bien en la salsa. Nosotros para hacerlo muy rápido hemos utilizamos la picadora manual de Gefu.
+Cuando la carne esté ya dorada añade la cebolla, la zanahoria y el apio. Cocina durante 8-10 minutos a fuego medio. Incorpora el tomate troceado y el agua, remueve bien y deja que reduzca durante 1 hora, o hasta que consigas la consistencia que quieres para tu relleno. Reserva.
+Mientras reposa la salsa vamos a preparar la bechamel. Calienta 3 cucharadas de aceite en una sartén y añade 4 cucharadas de harina. Remueve muy bien para tostar un poco la harina. Retira la sartén del fuego y añade la leche caliente poco a poco sin dejar de remover con unas varillas manuales. Añade una pizca de pimienta negra, otra de nuez moscada y un poco de sal.
+Cuando esté todo integrado vuelve a ponerla al fuego y cocina sin parar de remover durante 5-7 minutos a fuego mínimo, o hasta que la salsa haya espesado un poco, para la lasaña es mejor una bechamel no demasiado espesa. Si os quedan grumos podéis arreglarla con un toque de batidora.
+Para montar la lasaña necesitas una fuente de horno de unos 30 x 20 cm. Pon unas cucharadas de relleno de carne en la base de la fuente para que no se pegue la lasaña. Encima coloca las placas de pasta, una capa de carne bien extendida y unas cucharadas de bechamel. Repite este proceso dos veces más. Termina la lasaña con una capa de placas de pasta y cubre con la bechamel y queso rallado por encima.
+
+
+<img src="IMG5.jpeg">
+
+
+Ingredientes
+• 500 gramos de carne de res molida
+• 250 gramos de carne de cerdo molida
+• 150 gramos de tocino, picado
+• 1 huevo
+• 1 cucharada de mostaza
+• 1/2 tazas de pan molido
+• perejil, picado finamente, al gusto
+• sal, y pimienta al gusto
+1. Ensalada de quinoa con aguacate y tomate:
+
+Enlace:https://recetasveganas.pro/ensalada-de-quinoa-y-aguacate/
+
+Ingredientes:
+- 1 taza de quinoa cocida
+- 1 tomate picado
+- 1 aguacate cortado en cubitos
+- 1/4 taza de cilantro picado
+- 1 limón
+- Sal y pimienta al gusto
+
+Instrucciones:
+1. En un tazón grande, mezcla la quinoa cocida, el tomate, el aguacate y el cilantro.
+2. Exprime el jugo de limón sobre la ensalada y mezcla bien.
+3. Agrega sal y pimienta al gusto.
+4. Sirve la ensalada de quinoa con aguacate y tomate como plato principal o como acompañante.
+
+ Pollo al curry con arroz basmati:
+
+<img src="IMG7.jpeg">
+
+
+Ingredientes:
+- 2 pechugas de pollo cortadas en trozos
+- 1 cebolla picada
+- 2 dientes de ajo picados
+- 1 lata de leche de coco
+- 2 cucharadas de pasta de curry rojo
+- 1 cucharada de aceite de coco
+- 1 taza de arroz basmati cocido
+
+Instrucciones:
+1. En una sartén grande, calienta el aceite de coco y sofríe la cebolla y el ajo hasta que estén dorados.
+2. Agrega el pollo y cocina hasta que esté dorado por todos lados.
+3. Añade la pasta de curry rojo y cocina por unos minutos más.
+4. Vierte la leche de coco en la sartén y cocina a fuego lento durante unos 15 minutos.
+5. Sirve el pollo al curry con arroz basmati y disfruta de esta deliciosa comida.
+</p>
+
+
+
+
+
+
+
+
+    <h2>Las obras de arte mas famosas</h2>
+</head>
+<body>
+
+<img src="IMG574.jpeg">
+<p>"El Grito" es una famosa obra de arte del pintor noruego Edvard Munch, realizada en 1893. La pintura muestra a una figura atormentada y con gesto de desesperación en un paisaje de colores vibrantes y ondulantes. Se ha convertido en un icono del arte moderno y es una representación poderosa de la angustia humana y la soledad. La obra forma parte de la serie de pinturas de Munch conocida como "El Grito de la Naturaleza".</p>
+<img src="IMG29.jpeg">
+<p>Miguel Ángel Buonarroti fue un destacado artista renacentista italiano, nacido el 6 de marzo de 1475 en Caprese, Florencia, y fallecido el 18 de febrero de 1564 en Roma. Fue escultor, pintor y arquitecto, considerado uno de los más grandes artistas de la historia occidental. Entre sus obras más famosas se encuentran el David, la Piedad, la Capilla Sixtina y la Basílica de San Pedro en el Vaticano. Miguel Ángel es conocido por su genio artístico y su influencia en el arte de su época y posteriores.</p>
+<img src="IMG678.jpeg">
+<p>La Mona Lisa es un famoso retrato pintado por Leonardo da Vinci en el siglo XVI. También conocida como La Gioconda, la pintura muestra a una mujer con una enigmática sonrisa y ha sido admirada por su técnica artística y belleza. Actualmente se encuentra en el Museo del Louvre en París y es una de las obras de arte más reconocidas y valoradas en el mundo.</p>
+<img src="IMGE23.jpeg">
+<p>Alessandro di Mariano di Vanni Filipepi, conocido como Sandro Botticelli, fue un destacado pintor del Renacimiento italiano. Nació en 1445 en Florencia y murió en 1510 en la misma ciudad. Es famoso por sus obras maestras como "El nacimiento de Venus" y "La primavera", que destacan por su elegancia, gracia y simbolismo. Botticelli fue uno de los artistas más importantes de su época y su estilo artístico influenció a numerosos pintores posteriores</p>
+<ul>
+	<li><a href="https://www.expansion.com/fueradeserie/cultura/2022/03/23/6231c6f2e5fdeac0628b4574.html"targe="-blackj">www.expansion.com</a></li>
+</ul>
+
+</body>
+</html
